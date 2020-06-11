@@ -16,7 +16,7 @@ Imagine you’re a financial analyst and you’re looking at banking data for on
 Your bank has created charts showing Carla’s monthly expenditures for three months in the autumn.
 In this lab, you’ll flex your data fluency muscles by identifying whether a series of statements (or “data stories”) match the data visualizations/charts.
 
-### Exercise 1: True or False?
+### Exercise 1: True or False
 
 Here are three bar graphs showing Carla’s monthly spending for three months, broken down by category.
 For the purposes of this lab, let’s say **the current month is November, and the month is less than halfway over**.
