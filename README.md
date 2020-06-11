@@ -1,6 +1,28 @@
 # Practical Introduction To Data Analysis
 Welcome to the course "A Practical Introduction to Data Analysis for Absolute Beginners"!
 
+Digital transformation and advanced technologies like AI and quantum computing are fueled by data. Every industry and profession needs data analysis, from a small business’s survey data to CERN’s hundreds of petabytes per experiment. Analyzing data is one of the most critical skills of the future. This course will bring you from the very beginnings of data concepts and structures in context, all the way through analyzing data, telling data stories effectively, and understanding the environments in which data exists throughout our work and life. It will also start you on the path to becoming a data analyst. Throughout the course, we’ll reference additional courses and learning paths you can take to help you on your data career journey.
+
+Course audience: Aspiring analysts in any industry, as well as managers who need to learn data analytics, data scientists, engineers, software developers, AI engineers, and more.
+
+# Course Overview
+
+This course has six modules.
+
+Every module has videos, exercises and labs to practice your knowledge.
+
+Module 1: Our Data-Driven World: Learn to look at the world through the lens of data and to understand things from a fundamental transactional and representational level, all the way through to data fluency and how organizations and governments, not to mention people, from around the world run and organize their life around the flow of data.
+
+Module 2: Our First Data Walkthrough: Dive right in and run through a complete analysis of a real-world data set involving gas mileage, engine size, and other factors related to a group of car models. You'll also learn to make insights, explore scatterplots, break out one variable by another factor, and calculate correlations.
+
+Module 3: Our Data Structures: Find out where data come from as well as how they are used, stored, and interpreted. You'll also explore the different types of data and learn how to join two data sets into a single table using different methodologies.
+
+Module 4: Our Data Analysis Methods: You'll get into the specifics of how to use math and visualization techniques to summarize, distribute, and present data in a compelling way.
+
+Module 5: Our Data Analysis in Context: Explore how data insights work in the real world and in the context of a couple specific industries. You'll also get a crash course in data ethics and the wide variety of possible careers in the field of data analysis.
+
+Final Exam and Challenge Labs: Take a 20-question, multiple-choice Final Exam and complete one Challenge Lab.
+
 # Course Outline
 
 ## Introduction
@@ -141,5 +163,9 @@ In this very short lesson, we'll take a look at some of the jobs and career path
 #### Lesson 3: Assessment
 
 ## Final Exam
-The final exam exists of 20 multiple choice questions
+The final exam exists of 20 multiple choice questions and a Challenge Lab.
+
+* Final Exam
+* Challenge Lab Instructions
+* Lab: Quiz
 
