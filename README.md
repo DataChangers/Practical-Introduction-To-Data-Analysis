@@ -18,9 +18,9 @@ In this introductory lesson, we'll explore the increasingly important role of da
 * Video: Data Analysis History
 * Video: Dashboard Interaction Lab Introduction
 * Lab: Dashboard Interaction
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 1: Assessment
+* **Lesson 1: Assessment**
 
 ### Lesson 2: Data Literacy
 In this lesson, we'll begin building our core data fluency skills: reading and speaking the language of analytics.
@@ -28,9 +28,9 @@ In this lesson, we'll begin building our core data fluency skills: reading and s
 * Video: Data Fluency
 * Video: Data Fluency Lab Introduction
 * Lab: Data Fluency
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 2: Assessment
+* **Lesson 2: Assessment**
 
 ## Module 2: Our First Data Walkthrough
 
@@ -41,16 +41,16 @@ In this lesson, we'll dive into our first hands-on data analytics task. We'll an
 * Video: The Data Analysis Process
 * Video: Data Set Walkthrough
 * Lab: Real-World Data
-* Lab: Quiz
+* **Lab: Quiz**
 
 * Video: Unpacking the Walkthrough 1: Average
 * Video: Unpacking the Walkthrough 2: Breaking Out
 * Video: Unpacking the Walkthrough 3: Scatterplots
 * Video: Unpacking the Walkthrough 4: Correlations
 * Lab: Data Walkthrough
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 1: Assessment
+* **Lesson 1: Assessment**
 
 ## Module 3: Our Data Structures
 
@@ -68,10 +68,10 @@ In this lesson, we'll familiarize ourselves with the essential structure, anatom
 * Video: Data Anatomy
 * Video: Data Types
 * Lab: Data Structures
-* Lab: Quiz
+* **Lab: Quiz**
 * Video: Data Structures
 
-#### Lesson 2: Assessment
+* **Lesson 2: Assessment**
 
 ### Lesson 3: Data Joins
 In this lesson, we'll learn how to combine multiple related data sets into a single table. We'll look at four different methodologies for doing this, depending on the specific needs of our project.
@@ -79,9 +79,9 @@ In this lesson, we'll learn how to combine multiple related data sets into a sin
 * Video: Data Joins
 * Video: Example of Data Joins
 * Lab: Data Joins
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 3: Assessment
+* **Lesson 3: Assessment**
 
 ## Module 4: Our Data Analysis Methods
 
@@ -92,9 +92,9 @@ In this lesson, we'll gain some basic math and statistical skills that will prov
 * Video: Distribution Statistics
 * Video: Other Statistics
 * Lab: Data and Math
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 1: Assessment
+* **Lesson 1: Assessment**
 
 ### Lesson 2: Data Visualization 101
 In this lesson, we'll explore various ways of visualizing our data via graphs, charts, dashboards, and more.
@@ -104,9 +104,9 @@ In this lesson, we'll explore various ways of visualizing our data via graphs, c
 * Video: Data Visualizations: Types
 * Video: Data Storytelling
 * Lab: Data Visualization
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 2: Assessment
+* **Lesson 2: Assessment**
 
 ## Module 5: Data Analysis in Context
 
@@ -116,22 +116,22 @@ In this lesson, we'll examine the complex real-world ecosystems in which data sh
 * Video: Data in Context
 * Video: Example: Healthcare
 * Lab: Healthcare Data
-* Lab: Quiz
+* **Lab: Quiz**
 
 * Video: Example: Education
 * Lab: Education Data
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 1: Assessment
+* **Lesson 1: Assessment**
 
 ### Lesson 2: Data Ethics
 In this lesson, we'll examine the ethics and moral concerns of data analytics, this new frontier of the 21st century. How should we govern ourselves responsibly in this growing field?
 
 * Video: Data Ethics
 * Lab: Data Privacy
-* Lab: Quiz
+* **Lab: Quiz**
 
-#### Lesson 2: Assessment
+* **Lesson 2: Assessment**
 
 ### Lesson 3: Data Analysis Career Paths
 In this very short lesson, we'll take a look at some of the jobs and career paths available to us as we grow our data analysis skillsets.
@@ -141,4 +141,5 @@ In this very short lesson, we'll take a look at some of the jobs and career path
 #### Lesson 3: Assessment
 
 ## Final Exam
+The final exam exists of 20 multiple choice questions
 
