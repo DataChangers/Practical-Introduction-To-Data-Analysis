@@ -12,7 +12,7 @@ This course is based on the retired Microsoft Professional Program. As learning 
 
 This course has six modules.
 
-Every module has videos, exercises and labs to practice your knowledge.
+Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please sign up for this course on the DataChangers Academy.
 
 Module 1: Our Data-Driven World: Learn to look at the world through the lens of data and to understand things from a fundamental transactional and representational level, all the way through to data fluency and how organizations and governments, not to mention people, from around the world run and organize their life around the flow of data.
 
@@ -54,7 +54,7 @@ In this lesson, we'll begin building our core data fluency skills: reading and s
 
 * Video: Data Fluency
 * Video: Data Fluency Lab Introduction
-* Lab: Data Fluency
+* [Lab: Data Fluency]("Module%201%20Our%20Data-Driven%20World/Data%20Literacy/Lab%20Data%20Fluency.md")
 * **Lab: Quiz**
 
 * **Lesson 2: Assessment**
