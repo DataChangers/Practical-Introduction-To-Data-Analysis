@@ -21,7 +21,7 @@ In this lab, you’ll flex your data fluency muscles by identifying whether a se
 Here are three bar graphs showing Carla’s monthly spending for three months, broken down by category.
 For the purposes of this lab, let’s say **the current month is November, and the month is less than halfway over**.
 
-![Monthly Spending September](2020-06-11-16-33-39.png)
+![Monthly Spending September](img/2020-06-11-16-33-39.png)
 
 ![Monthly Spending October](2020-06-11-16-36-31.png)
 
