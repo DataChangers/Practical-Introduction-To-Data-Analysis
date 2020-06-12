@@ -54,7 +54,7 @@ In this lesson, we'll begin building our core data fluency skills: reading and s
 
 * Video: Data Fluency
 * Video: Data Fluency Lab Introduction
-* [Lab: Data Fluency]("Module%201%20Our%20Data-Driven%20World/Data%20Literacy/Lab%20Data%20Fluency.md")
+* [Lab: Data Fluency](/Module%201%20Our%20Data-Driven%20World/Data%20Literacy/Lab%20Data%20Fluency.md)
 * **Lab: Quiz**
 
 * **Lesson 2: Assessment**
