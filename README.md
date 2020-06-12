@@ -8,13 +8,13 @@ Course audience: Aspiring analysts in any industry, as well as managers who need
 
 This course is based on the retired Microsoft Professional Program. As learning partner of Microsoft, we try to continue building these kind of courses to help professionals gain the data skills.
 
-Get access to the complete course: Please follow the instructions on [this course page](https://www.datachangers.com/data-analysis-track/) to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
+Get access to the complete course: Please follow the instructions on [this course page](https://www.datachangers.com/data-analysis-track/?target=_blank) to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
 
 ## Course Overview
 
 This course has six modules.
 
-Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please sign up for [this course on DataChangers](https://www.datachangers.com/data-analysis-track/).
+Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please sign up for [this course on DataChangers](https://www.datachangers.com/data-analysis-track/?target=_blank).
 
 Module 1: Our Data-Driven World: Learn to look at the world through the lens of data and to understand things from a fundamental transactional and representational level, all the way through to data fluency and how organizations and governments, not to mention people, from around the world run and organize their life around the flow of data.
 
