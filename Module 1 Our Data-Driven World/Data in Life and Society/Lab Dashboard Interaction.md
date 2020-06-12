@@ -1,3 +1,9 @@
+# A Practical Introduction to Data Analysis for Absolute Beginners
+
+## Module 1 - Lab 1: Data in Life and Society
+
+### Lab: Dashboard Interaction
+
 For our first lab, we’ll look at a powerful example of data analysis in action. (There are no instructions or data sets to download for this lab.)
 
 Head over to this link: [Attendance Tracker](https://community.powerbi.com/t5/Data-Stories-Gallery/Attendance-Tracker-Improving-School-Attendance-by-Decisive-Data/m-p/136078).
