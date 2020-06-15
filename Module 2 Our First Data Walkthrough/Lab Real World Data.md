@@ -10,6 +10,7 @@
 ## Data Set
 
 [Car data set](Module%202%20Lab%20Real%20World%20Data%20-%20car%20data.xlsx)
+You can download this data set and store it so you can use it later on for the exercises.
 
 ## What You’ll Need
 
