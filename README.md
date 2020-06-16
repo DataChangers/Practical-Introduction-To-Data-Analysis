@@ -70,14 +70,14 @@ In this lesson, we'll dive into our first hands-on data analytics task. We'll an
 * Video: Data Scenario Setup
 * Video: The Data Analysis Process
 * Video: Data Set Walkthrough
-* Lab: Real-World Data
+* [Lab: Real-World Data](/Module%202%20Our%20First%20Data%20Walkthrough/Lab%201%20Real%20World%20Data.md)
 * **Lab: Quiz**
 
 * Video: Unpacking the Walkthrough 1: Average
 * Video: Unpacking the Walkthrough 2: Breaking Out
 * Video: Unpacking the Walkthrough 3: Scatterplots
 * Video: Unpacking the Walkthrough 4: Correlations
-* Lab: Data Walkthrough
+* [Lab: Data Walkthrough](/Module%202%20Our%20First%20Data%20Walkthrough/Lab%202%20Data%20Walkthrough.md)
 * **Lab: Quiz**
 
 * **Lesson 1: Assessment**
