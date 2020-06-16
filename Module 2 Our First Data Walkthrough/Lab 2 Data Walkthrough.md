@@ -70,6 +70,33 @@ The syntax for Excel’s AVERAGE function is:
 
 Since you want the average number of cylinders, use column C as your range of data. You can either type in C2 as the first cell and C33 as the last cell, or you can just type in =AVERAGE( ), click inside the parentheses, and highlight all the cells from C2 down to C33. Once you hit Enter, the program will calculate the average for you from that column.
 
-![Average CYL](2020-06-16-10-05-22.png)
+![Average CYL](img/2020-06-16-10-05-22.png)
 
 So the average car from this data set had about 6.1875 cylinders.
+
+### Exercise 2: Creating a Scatterplot
+
+Next, we’ll create a graph in Excel that shows the correlation between two different variables. Let’s see
+if there’s a correlation (relationship) between engine size and horsepower.
+
+1. With the car data set open in Excel Online, highlight all of column C (“cyl”) and copy the data (Ctrl + c on Windows, Command + c on Mac). Paste the data into a new column, off somewhere to the right-hand side of the rest of the spreadsheet — we’re pasting it into column O in this
+example.
+
+![Copy CYL](img/2020-06-16-10-43-40.png)
+
+2. Repeat Step 1 with column E (“hp”). Paste all the horsepower data into a column adjacent to then “cyl” data you just pasted. In this example, that’s column P.
+
+![Copy HP](img/2020-06-16-10-46-08.png)
+
+*Note: Excel Online doesn’t support selecting multiple non-adjacent cells or columns, which is
+why we’re copying and pasting the two columns before creating the chart. If you have access to a desktop version of Excel, you can instead use Ctrl + click (or Command + click on a Mac) to select non-adjacent data and skip the copy/paste part.*
+
+3. Select your two new adjacent columns of data (columns O and P). With both columns of data selected, click the Insert tab in the ribbon, then click Scatter > Scatter only with Markers.
+
+![Add scatterplot](img/2020-06-16-10-49-42.png)
+
+*Note: Again, if you’re using a desktop version of Excel instead of Excel Online, you can just select the two non-adjacent “cyl” and “hp” columns directly from the original data instead of copy/pasting.*
+
+This should create a simple scatterplot showing the “cyl” (cylinder) data on the x -axis and the “hp” (horsepower) data on the y -axis, like so:
+
+![Scatterplot](img/2020-06-16-10-52-26.png)
