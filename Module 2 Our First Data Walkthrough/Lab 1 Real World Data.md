@@ -31,18 +31,18 @@ Here’s a snapshot of the data:
 2. Identify the variables. In this case, there are 12 different vertical columns . Here’s what they each
 represent:
 
-model = name of car model
-mpg = gas mileage, in miles per (US) gallon
-cyl = number of cylinders
-disp = displacement, in cubic inches
-hp = gross horsepower
-drat = rear axle ratio
-wt = weight, in thousands of pounds (1000 lb)
-qsec = 1/4 mile time
-vs = engine (0 = V-shaped, 1 = straight)
-am = transmission (0 = automatic, 1 = manual)
-gear = number of forward gears
-carb = number of carburetors
+* model = name of car model
+* mpg = gas mileage, in miles per (US) gallon
+* cyl = number of cylinders
+* disp = displacement, in cubic inches
+* hp = gross horsepower
+* drat = rear axle ratio
+* wt = weight, in thousands of pounds (1000 lb)
+* qsec = 1/4 mile time
+* vs = engine (0 = V-shaped, 1 = straight)
+* am = transmission (0 = automatic, 1 = manual)
+* gear = number of forward gears
+* carb = number of carburetors
 
 Those are your variables, since they vary from car to car.
 

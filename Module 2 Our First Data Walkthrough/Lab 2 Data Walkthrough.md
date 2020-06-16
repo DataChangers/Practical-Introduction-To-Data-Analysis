@@ -33,18 +33,18 @@ Here’s a snapshot of the data:
 
 Once again, here’s what each variable/column represents:
 
-model = name of car model
-mpg = gas mileage, in miles per (US) gallon
-cyl = number of cylinders
-disp = displacement, in cubic inches
-hp = gross horsepower
-drat = rear axle ratio
-wt = weight, in thousands of pounds (1000 lb)
-qsec = 1/4 mile time
-vs = engine (0 = V-shaped, 1 = straight)
-am = transmission (0 = automatic, 1 = manual)
-gear = number of forward gears
-carb = number of carburetors
+* model = name of car model
+* mpg = gas mileage, in miles per (US) gallon
+* cyl = number of cylinders
+* disp = displacement, in cubic inches
+* hp = gross horsepower
+* drat = rear axle ratio
+* wt = weight, in thousands of pounds (1000 lb)
+* qsec = 1/4 mile time
+* vs = engine (0 = V-shaped, 1 = straight)
+* am = transmission (0 = automatic, 1 = manual)
+* gear = number of forward gears
+* carb = number of carburetors
 
 2. With the data set open, click anywhere in the spreadsheet, go to the Data tab in the ribbon, and click Filter (in the Sort & Filter tab). Probably, as you opened the file from the last lab, the filter option has already been activated.
 
