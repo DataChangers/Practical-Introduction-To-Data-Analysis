@@ -100,3 +100,32 @@ why we’re copying and pasting the two columns before creating the chart. If yo
 This should create a simple scatterplot showing the “cyl” (cylinder) data on the x -axis and the “hp” (horsepower) data on the y -axis, like so:
 
 ![Scatterplot](img/2020-06-16-10-52-26.png)
+
+You’ll need to add some titles and legends to make the chart easier to read, though.
+
+4. To add a better chart title, click on the scatterplot itself, then click Chart Tools in the ribbon and
+go to Chart Title > Edit Chart Title.
+
+![Edit title](img/2020-06-16-15-30-09.png)
+
+Type in “Engine Size vs Horsepower” under Title Text, then click OK. Your scatterplot now has a shiny new title.
+
+![Add title](img/2020-06-16-15-34-13.png)
+
+5. Click into Chart Tools in the ribbon again, and click Legend > None to get rid of that little blue dot at the bottom that says “hp.”
+
+![Remove legend](img/2020-06-16-15-36-25.png)
+
+6. Finish up by adding titles to the x - and y -axis. To do this, head back to Chart Tools in the ribbon again, then click Axis Titles > Primary Horizontal Axis Title > Edit Horizontal Axis title. Type “Number of Cylinders” and hit OK.
+
+![Add horizontal axis](img/2020-06-16-15-38-44.png)
+
+7. Do the same thing for the vertical axis: Go to Chart Tools > Axis Titles > Primary Vertical Axis Title > Edit Vertical Axis Title. Type in “Horsepower” as the title and click OK.
+
+![Add vertical axis](img/2020-06-16-15-40-39.png)
+
+Now your scatterplot should be nice and easy to read.
+
+![Final graph](img/2020-06-16-15-42-11.png)
+
+You can see from the plot that there does seem to be a correlation between an engine’s number of cylinders and its horsepower. The higher dots on the right show that a higher number of cylinders usually means a higher horsepower. We call that a **positive correlation**.
