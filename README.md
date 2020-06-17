@@ -45,7 +45,7 @@ In this introductory lesson, we'll explore the increasingly important role of da
 * Video: Data in Our Society
 * Video: Data Analysis History
 * Video: Dashboard Interaction Lab Introduction
-* Lab: Dashboard Interaction
+* [Lab: Dashboard Interaction](/Module%201%20Our%20Data-Driven%20World/Lesson%201%20Lab%20Dashboard%20Interaction.md)
 * **Lab: Quiz**
 
 * **Lesson 1: Assessment**
@@ -56,7 +56,7 @@ In this lesson, we'll begin building our core data fluency skills: reading and s
 
 * Video: Data Fluency
 * Video: Data Fluency Lab Introduction
-* [Lab: Data Fluency](/Module%201%20Our%20Data-Driven%20World/Data%20Literacy/Lab%20Data%20Fluency.md)
+* [Lab: Data Fluency](/Module%201%20Our%20Data-Driven%20World/Lesson%202%20Lab%20Data%20Fluency.md)
 * **Lab: Quiz**
 
 * **Lesson 2: Assessment**
