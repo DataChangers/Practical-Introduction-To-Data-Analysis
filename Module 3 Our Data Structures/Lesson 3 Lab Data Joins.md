@@ -48,7 +48,7 @@ This’ll help keep your data sets straight.
 
 ![Create table 1 and 2](img/2020-07-02-13-16-10.png)
 
-2. Open both data sets in Excel (You can use "Upload and open..."). Copy and paste the data from the [Table 1 data set](Module%203%20Our%20Data%20Structures\Module%203%20Lab%20Data%20Joins%20-%20table%201%20data.xlsx) below TABLE 1, and copy and paste the [Table 2 data](Module%203%20Our%20Data%20Structures\Module%203%20Lab%20Data%20Joins%20-%20table%202%20data.xlsx) below TABLE 2.
+2. Open both data sets in Excel (You can use "Upload and open..."). Copy and paste the data from the [Table 1 data set](Module%203%20Lab%20Data%20Joins%20-%20table%201%20data.xlsx) below TABLE 1, and copy and paste the [Table 2 data](Module%203%20Lab%20Data%20Joins%20-%20table%202%20data.xlsx) below TABLE 2.
 
 ![Add data sets to workbook](img/2020-07-02-13-20-43.png)
 
