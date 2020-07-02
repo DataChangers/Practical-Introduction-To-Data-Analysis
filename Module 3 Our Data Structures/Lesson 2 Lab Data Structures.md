@@ -29,7 +29,7 @@ For starters, we’ll get our feet wet and look at the basic structure of a data
 
 ![Movie data variable](img/2020-06-17-12-38-00.png)
 
-1. Identify the variables. In this case, there are four different vertical columns:
+2. Identify the variables. In this case, there are four different vertical columns:
 
 * movie ID
 * runtime (in minutes)
@@ -38,12 +38,12 @@ For starters, we’ll get our feet wet and look at the basic structure of a data
 
 Those are the variables because those values vary from movie to movie.
 
-1. Identify the observations. Since each horizontal row corresponds to a single entry from each of the variable columns, each row must represent an individual movie. For example, Movie 6 at the top has a runtime of 112.74 minutes, is rated PG-13, and has an average likability of 3 out of 5
+3. Identify the observations. Since each horizontal row corresponds to a single entry from each of the variable columns, each row must represent an individual movie. For example, Movie 6 at the top has a runtime of 112.74 minutes, is rated PG-13, and has an average likability of 3 out of 5
 from the audience.
 
 ![Movie 6](img/2020-06-17-12-44-12.png)
 
-1. Now you can answer simple questions about the data set. For example, what’s the rating of Movie 84? To figure it out, hunt down 84 in the Movie ID column, then move along that movie’s row to the rating variable.
+4. Now you can answer simple questions about the data set. For example, what’s the rating of Movie 84? To figure it out, hunt down 84 in the Movie ID column, then move along that movie’s row to the rating variable.
 
 *Tip: in order to find Movie 84 quickly, you could use the Filter option like you learned in the prior lab. You could also sort the data set by "movieid".*
 
@@ -51,7 +51,7 @@ from the audience.
 
 Movie 84 is rated PG.
 
-1. How long is Movie 23? Head to the row for Movie 23 (it’s at the very bottom of the list), and check the runtime variable.
+5. How long is Movie 23? Head to the row for Movie 23 (it’s at the very bottom of the list), and check the runtime variable.
 
 ![Movie 23](img/2020-06-17-12-52-03.png)
 
