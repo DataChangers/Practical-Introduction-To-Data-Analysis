@@ -10,8 +10,8 @@
 
 There are two different data sets for this lab:
 
-* [Table 1 data](Module%203%20Our%20Data%20Structures\Module%203%20Lab%20Data%20Joins%20-%20table%201%20data.xlsx)
-* [Table 2 data](Module%203%20Our%20Data%20Structures\Module%203%20Lab%20Data%20Joins%20-%20table%202%20data.xlsx)
+* [Table 1 data](Module%203%20Lab%20Data%20Joins%20-%20table%201%20data.xlsx)
+* [Table 2 data](Module%203%20Lab%20Data%20Joins%20-%20table%202%20data.xlsx)
 
 ## What You’ll Need
 
