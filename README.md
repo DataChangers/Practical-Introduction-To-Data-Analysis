@@ -70,14 +70,14 @@ In this lesson, we'll dive into our first hands-on data analytics task. We'll an
 * Video: Data Scenario Setup
 * Video: The Data Analysis Process
 * Video: Data Set Walkthrough
-* [Lab: Real-World Data](/Module%202%20Our%20First%20Data%20Walkthrough/Lab%201%20Real%20World%20Data.md)
+* [Lab: Real-World Data](/Module%202%20Our%20First%20Data%20Walkthrough/Lesson%201%20Lab%201%20Real%20World%20Data.md)
 * **Lab: Quiz**
 
 * Video: Unpacking the Walkthrough 1: Average
 * Video: Unpacking the Walkthrough 2: Breaking Out
 * Video: Unpacking the Walkthrough 3: Scatterplots
 * Video: Unpacking the Walkthrough 4: Correlations
-* [Lab: Data Walkthrough](/Module%202%20Our%20First%20Data%20Walkthrough/Lab%202%20Data%20Walkthrough.md)
+* [Lab: Data Walkthrough](/Module%202%20Our%20First%20Data%20Walkthrough/Lesson%201%20Lab%202%20Data%20Walkthrough.md)
 * **Lab: Quiz**
 
 * **Lesson 1: Assessment**
@@ -99,7 +99,7 @@ In this lesson, we'll familiarize ourselves with the essential structure, anatom
 
 * Video: Data Anatomy
 * Video: Data Types
-* Lab: Data Structures
+* [Lab: Data Structures](/Module%203%20Our%20Data%20Structures/Lesson%202%20Lab%20Data%20Structures.md)
 * **Lab: Quiz**
 * Video: Data Structures
 
@@ -111,7 +111,7 @@ In this lesson, we'll learn how to combine multiple related data sets into a sin
 
 * Video: Data Joins
 * Video: Example of Data Joins
-* Lab: Data Joins
+* [Lab: Data Joins](/Module%203%20Our%20Data%20Structures/Lesson%203%20Lab%20Data%20Joins.md)
 * **Lab: Quiz**
 
 * **Lesson 3: Assessment**
