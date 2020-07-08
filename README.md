@@ -125,7 +125,7 @@ In this lesson, we'll gain some basic math and statistical skills that will prov
 * Video: Summary Statistics
 * Video: Distribution Statistics
 * Video: Other Statistics
-* Lab: Data and Math
+* [Lab: Data and Math](Module%204%20Our%20Data%20Analysis%20Methods/Lesson%201%20Lab%20Data%20and%20Math.md)
 * **Lab: Quiz**
 
 * **Lesson 1: Assessment**

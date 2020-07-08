@@ -101,4 +101,4 @@ So the skewness value is -0.16791 (again, your value might show up rounded sligh
 
 Bonus: To check this, you can make a frequency chart, and you can see that indeed the runtime is slighlty negatively skewed, so the runtime of movies is not equally distibuted, having a little bit more movies with a longer runtime.
 
-![](2020-07-08-14-21-41.png)
+![Check skewness](img/2020-07-08-14-21-41.png)
