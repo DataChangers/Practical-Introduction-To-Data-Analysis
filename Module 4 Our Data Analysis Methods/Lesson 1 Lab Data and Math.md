@@ -65,3 +65,20 @@ MODE.SNGL function gives the single most frequently-occurring number in a data s
 
 This means that 98.86 minutes is the most common movie length in our list. For this data set, we had different values for the mean, median, and mode, but you’ll often see two or even all three of these values being exactly the same. It just depends on how skewed the data are (more on this later, in Exercise 3).
 
+### Exercise 2: Standard Deviation
+
+The standard deviation of a set of values is a measure of how spread out those values are. The mathematical formula for finding the standard deviation is pretty intense, but thankfully, Excel has a built-in function that’ll do the work for you — as long as you’re careful to enter the correct range of
+values.
+
+1. In that same data set from Exercise 1, create a new column for the standard deviation of the “runtime” variable.
+
+![Standard deviation runtime](img/2020-07-08-13-59-54.png)
+
+2. Click into cell H2 and use the STDEV.S formula. The syntax to calculate the standard deviation of a sample is **=STDEV.S(first cell:last cell)**. You want the standard deviation of all the values in column B, so once again, your range is B2:B105. Click on Enter when you have finished your syntax.
+
+![Add standard deviation formula](img/2020-07-08-14-03-57.png)
+
+There we go: The standard deviation is about 10.67 when we round it. (Note: The last couple digits of your final answer might be slightly different due to rounding, depending on how wide the cells in column H are.)
+What this means, basically, is that most of the movies in our list are within about 10.67 minutes of the mean (which we found in column E). In other words, most of these movies are about 100.5 minutes plus or minus 10.67 minutes (100.5 ± 10.67 minutes).
+
+
