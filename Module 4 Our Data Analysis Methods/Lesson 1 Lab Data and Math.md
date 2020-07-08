@@ -10,7 +10,7 @@
 
 ## Data Set
 
-[Movie data set](../Module%20%203%20Our%20Data%20Structures/Module%203%20Lab%20Data%20Structures%20-%20movie%20data.xlsx)
+[Movie data set](../Module%203%20Our%20Data%20Structures/Module%203%20Lab%20Data%20Structures%20-%20movie%20data.xlsx)
 
 You have used this data also for the prior labs of Module 3.
 
