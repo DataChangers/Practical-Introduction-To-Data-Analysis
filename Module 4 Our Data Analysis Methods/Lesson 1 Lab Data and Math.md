@@ -81,4 +81,24 @@ values.
 There we go: The standard deviation is about 10.67 when we round it. (Note: The last couple digits of your final answer might be slightly different due to rounding, depending on how wide the cells in column H are.)
 What this means, basically, is that most of the movies in our list are within about 10.67 minutes of the mean (which we found in column E). In other words, most of these movies are about 100.5 minutes plus or minus 10.67 minutes (100.5 ± 10.67 minutes).
 
+### Exercise 3: Skew
 
+“Skewness” is a measure of how asymmetrical the distribution of a set of data is. A skewness of 0 (zero) means the data are normally distributed, or perfectly symmetrical with no skew. A positive value means the data are positively skewed , which means the longer “tail” of the data is on the positive side (to the right). A negative skew value means the data are negatively skewed , which means the longer “tail” of the data is on the negative side (to the left). Like this:
+
+![Example of skew](img/2020-07-08-14-13-24.png)
+
+In this exercise, we’ll find out exactly how skewed the movie runtime data is.
+
+1. Create a new column on the spreadsheet for the skew.
+
+![Add skew column](img/2020-07-08-14-14-27.png)
+
+Once again, it’s Excel to the rescue: Use the aptly-named SKEW function. The syntax is **=SKEW(first cell:last cell)**. You want the skewness measure of the movie runtime, which is in column B, so again, your first cell is B2 and your last cell is way down at B105. Hit Enter when you have finished your syntax.
+
+![Calculate skew](img/2020-07-08-14-16-34.png)
+
+So the skewness value is -0.16791 (again, your value might show up rounded slightly differently, depending on the width of your column). That means the movie runtimes are negatively skewed, but only slightly.
+
+Bonus: To check this, you can make a frequency chart, and you can see that indeed the runtime is slighlty negatively skewed, so the runtime of movies is not equally distibuted, having a little bit more movies with a longer runtime.
+
+![](2020-07-08-14-21-41.png)
