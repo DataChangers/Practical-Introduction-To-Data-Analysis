@@ -21,7 +21,7 @@ To complete the lab, you will need the online version of Microsoft Excel.
 
 ## Overview
 
-In data analysis, a “join” is a combination two (or more) tables into a single table, based on related columns in the tables. In this lab, we’ll practice manually performing four different types of data join in Excel. Before we get started, let’s run through a quick refresher on the definitions. 
+In data analysis, a “join” is a combination two (or more) tables into a single table, based on related columns in the tables. In this lab, we’ll practice manually performing four different types of data join in Excel. Before we get started, let’s run through a quick refresher on the definitions.
 
 Here are four of the main types of join:
 
