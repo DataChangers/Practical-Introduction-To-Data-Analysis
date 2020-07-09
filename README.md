@@ -138,7 +138,7 @@ In this lesson, we'll explore various ways of visualizing our data via graphs, c
 * Video: Data Visualizations: Example
 * Video: Data Visualizations: Types
 * Video: Data Storytelling
-* Lab: Data Visualization
+* [Lab: Data Visualization](Module%204%20Our%20Data%20Analysis%20Methods/Lesson%202%20Lab%20Data%20Visualization.md)
 * **Lab: Quiz**
 
 * **Lesson 2: Assessment**
