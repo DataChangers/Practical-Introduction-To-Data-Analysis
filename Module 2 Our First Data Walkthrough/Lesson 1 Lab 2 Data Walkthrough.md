@@ -12,7 +12,7 @@
 ## Data Set
 
 [Car data set](Module%202%20Lab%20Real%20World%20Data%20-%20car%20data.xlsx)
-This is the same data set as you used for the prior lab.
+This is the same data set as you used for the prior lab. In case you haven't done that lab, you can dowload the data file and store it on your local device. Then go to Excel Online, and open the corresponding data using the "Upload and Open..." option.
 
 ## What You’ll Need
 

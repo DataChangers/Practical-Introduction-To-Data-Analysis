@@ -1,6 +1,6 @@
 # A Practical Introduction to Data Analysis for Absolute Beginners
 
-## Module 4 - Lab 1: Maths and Statistics
+## Module 4 - Lab 1: Data and Math
 
 ## Learning Objectives
 
@@ -12,7 +12,7 @@
 
 [Movie data set](../Module%203%20Our%20Data%20Structures/Module%203%20Lab%20Data%20Structures%20-%20movie%20data.xlsx)
 
-You have used this data also for the prior labs of Module 3.
+You have used this data also for the prior labs of Module 3. In case you haven't, you can dowload this data file and store it on your local device. Then go to Excel Online, and open the corresponding data using the "Upload and Open..." option.
 
 ## What You’ll Need
 
