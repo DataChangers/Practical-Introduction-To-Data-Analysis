@@ -115,3 +115,65 @@ This will add an actual count for each category above each bin, like so:
 ![Add count](img/2020-07-20-10-18-06.png)
 
 Now you can see exactly how many movies fell into each category. For example, there were 28 movies that were between 90.69 minutes and 98.59 minutes.
+
+### Exercise 3: Bar Graphs
+
+Sometimes, we have data that’s categorical instead of numerical — it falls into categories that don’t have any numerical value. One example is the movie rating data from this lab’s data set, which shows whether each movie was rated G, PG, PG13, or R. These ratings aren’t numbers, so we can’t use a histogram to visualize them. But we can use a different type of visualization: a bar graph.
+
+1. Before you can create a new bar graph for the movie rating data, you’ll need to rearrange the data a bit. Why? Because Excel Online’s bar graph feature needs some actual numbers to read. Create a new mini-table off to the side with a row for each of the four movie rating categories (G, PG, PG13, and R), like so:
+
+![Add categories](img/2020-07-20-10-29-41.png)
+
+2. Now populate each category by applying the COUNTIF function to the “rating” variable in column C. What this function does is count the number of times a specific value or term shows up in a range of cells. The syntax is **=COUNTIF(range, criteria)**, where the range is the first and last cell separated by a colon. For example, to count the number of movies that were rated G, enter the range as C2:C105 (to represent everything in the “rating” column), and then enter your criteria as “G”. Do this in cell G1.
+
+**Important note: Since the criteria you want involves text instead of numbers, make sure you put “G” in quotation marks.**
+
+So here’s what you should type in cell G1: **=COUNTIF(C2:C105,"G")**. 
+Once you hit Enter, that cell will show the number of movies that were rated G.
+
+Remember: the syntax depends on the language you are using, so in come cases, the formula will be: **=COUNTIF(C2:C105;"G")**.
+
+![Count G](img/2020-07-20-10-33-12.png)
+
+There we go: 15 movies were rated G.
+
+3. In cell G2, use the COUNTIF function again to count the number of movies with a PG rating. Use the same syntax as you did in step 2.
+
+Syntax to use: **=COUNTIF(C2:C105,"PG")**
+
+![Count PG](img/2020-07-20-10-36-20.png)
+
+4. In cell G3, repeat step 2 to count the number of movies with a PG13 rating. Again, don’t forget to put “PG13” in quotation marks. For sure, you are now able to write the syntax yourself. Remember to check whether to use a "," or a ";" in your formula.
+
+![Count PG13](img/2020-07-20-10-37-47.png)
+
+5. In cell G4, repeat step 2 one more time to count the number of movies with an R rating.
+
+![Count R](img/2020-07-20-10-39-28.png)
+
+Sure enough, if you add up those four categories, you get 15 + 26 + 40 + 23 = 104 movies, which was the total number of movies in this data set. We didn’t miss anything.
+
+6. It’s time to actually create the **bar graph**. Highlight that whole mini-table you created in the previous steps.
+
+![Highlight table](img/2020-07-20-10-40-35.png)
+
+In the ribbon, click Insert > Column > Clustered Column. It’s the graphic on the left side of the dropdown menu.
+
+![Add clustered column](img/2020-07-20-10-42-13.png)
+
+Bam! Your new bar graph should pop up.
+
+![Bar graph](img/2020-07-20-10-43-07.png)
+
+The ratings are shown along the horizontal axis on the bottom, while the number of movies in each category is shown along the vertical axis on the left.
+
+7. As usual, it’s a good idea to add some helpful labels to the graph before finishing up. Just like you did in Exercises 1 and 2, add a quick title for the horizontal and vertical axes.
+
+* Click Chart Tools > Axis Titles > Primary Horizontal Axis Title > Edit Horizontal Axis Title, type in “Rating” in the box, then click OK.
+* Then click Chart Tools > Axis Titles > Primary Vertical Axis Title > Edit Vertical Axis Title, type in “Number of Movies” in the box, then click OK. Your bar graph should now look like this:
+
+![Add axis labels](img/2020-07-20-10-44-50.png)
+
+Now you can see how the movie ratings stack up against each other. It looks like the most popular rating was PG13, followed by PG, then R, then G.
+
+Bonus: Give the chart a nice title too!
