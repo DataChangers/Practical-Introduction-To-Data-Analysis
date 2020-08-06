@@ -72,3 +72,58 @@ Haruto was really hustling, with an average duration of 9.325 minutes per patien
 Benjamin spent an average of 10.96 minutes with each patient.
 
 Side note: always think of what you are looking at. In this case, you are only looking at duration. But an important factor is missing: what is the quality of that time spent with a patient? So even while Haruto was quick, he might have very content patients. On the other hand, Jessica spent more time on average on a patient, but that does not tell you whether the quality is higher or not.
+
+### Exercise 2: Daily Average Duration
+
+Now we’ll track down each doctor’s average duration by the day of the week.
+
+1. Using that same new table you created in Exercise 1, click into cell I2, which you’ll use for Jessica’s average duration per patient on Monday only . This might sound tricky, but Excel Online has another fancy function that’ll do it nicely: AVERAGEIF, which finds the average based on certain criteria in the data.
+
+The syntax is slightly more complicated for this function:
+
+`=AVERAGEIF(criteria range, criteria, average range)`
+
+Here’s what each part means:
+criteria range = the range of cells to test with the criteria, with a colon between them (first cell:last cell)
+
+**criteria** = the condition you want to use to narrow down the variable in the criteria range (if the criteria involves text instead of numbers, stick the text in quotation marks)
+
+**average range** = the range of cells that you actually want to average, with a colon between them (first cell:last cell)
+
+For example, in cell I2 you want to find Jessica’s average duration on Monday only, so the criteria range is the “day” variable (column B, but only the cells from Jessica’s patients). The criteria is Monday (“M”). The average range is the “duration” variable (column E, but again, only the cells from Jessica’s patients). Put it all together, and you get:
+
+`=AVERAGEIF(B2:B41,"M",E2:E41)`
+
+Don’t forget to put the “M” in quotation marks, since it’s text instead of a number. Once you hit Enter, Excel will calculate the average duration from Jessica’s patients, but only the ones she saw on Monday.
+
+![Average Monday Jessica](img/2020-08-06-07-41-37.png)
+
+Beautiful. On Monday, Jessica spent an average of 15.575 minutes with each patient.
+
+2. Now use this formula and adapt it for the other days of the week for Jessica. The AVERAGEIF function will stay nearly the same for Jessica’s other days: Her criteria range is always B2:B41, and her average range is always E2:E41. The only thing that changes is the criteria itself: Tuesday = “T” instead of “M”, etc. This’ll go in the “T avg” column (cell J2).
+
+*Tip: you can select and copy the formula in the formula bar, and paste it in the formula bar directly of the next weekday cell you want to calculate, and then change the weekday. Don't copy it into the cells of the worksheet, as that will change also the selection ranges.*
+
+Once you’ve entered all the formulas correctly, here’s what you should get for Jessica’s daily averages:
+
+![Average Jessica](img/2020-08-06-07-47-15.png)
+
+3. Repeat Steps 1 and 2 for Fatima. This time, Fatima’s criteria range runs from B42:B81, and her average range runs from E42:E81.
+
+With all the formulas entered, your table should now look like this:
+
+![Average Fatima](img/2020-08-06-07-50-39.png)
+
+4. Repeat those steps again for Haruto. The criteria range runs from B82:B121, and the average range runs from E82:E121.
+
+With Haruto’s part all entered, your table should look like this:
+
+![Average Haruto](img/2020-08-06-07-53-37.png)
+
+5. Repeat those steps one last time for Benjamin. Don’t give up! Almost there! Benjamin’s criteria range is B122:B161, and his average range is E122:E161.
+
+Our table is finally done!
+
+![Average Benjamin](img/2020-08-06-07-55-37.png)
+
+Now you can see how everyone’s weekly and daily average times stack up against each other. But a visual aid will make these comparisons even easier to see.
