@@ -151,7 +151,7 @@ In this lesson, we'll examine the complex real-world ecosystems in which data sh
 
 * Video: Data in Context
 * Video: Example: Healthcare
-* [Lab: Healthcare Data](Module%205%20Data%20Analysis%20in%20Context/Lesson%201%20Lab%20Healthcare%20Data.md)
+* [Lab: Healthcare Data](Module%205%20Data%20Analysis%20in%20Context/Lesson%201%20Lab%201%20Healthcare%20Data.md)
 * **Lab: Quiz**
 
 * Video: Example: Education
