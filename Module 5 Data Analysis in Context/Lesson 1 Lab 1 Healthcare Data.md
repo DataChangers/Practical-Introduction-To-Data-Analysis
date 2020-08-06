@@ -127,3 +127,21 @@ Our table is finally done!
 ![Average Benjamin](img/2020-08-06-07-55-37.png)
 
 Now you can see how everyone’s weekly and daily average times stack up against each other. But a visual aid will make these comparisons even easier to see.
+
+### Exercise 3: Graph It!
+
+1. It’s visual aid time. Highlight the entire data table you created in the last two exercises. (But do *not* highlight the entire spreadsheet — just the data on each doctor’s weekly and daily averages, from columns G to M.)
+
+![Select table data](img/2020-08-06-08-01-09.png)
+
+2. With those data highlighted, click Insert > Column > Clustered Column (it’s usually the icon on the left under 2-D Column).
+
+![Clustered column](img/2020-08-06-08-03-09.png)
+
+A fancy new bar graph should pop up, like so:
+
+![Clustered column graph](img/2020-08-06-08-04-04.png)
+
+Looking good, right? Now it’s very easy to see how our four doctors compare to each other in terms of their weekly average time with each patient (the blue bar) and their average time per day (the other bars).
+
+From the graph, you can see that Haruto is the most efficient doctor in terms of time: He runs through his patients more quickly, on average, than the other doctors. Jessica, on the other hand, spends the most time with each patient, which might also be a good thing. Maybe she’s the most careful and methodical doctor. Benjamin appears to be the most consistent in his daily average durations: The amount of time he spends with each patient varies less by day than the other docs.
