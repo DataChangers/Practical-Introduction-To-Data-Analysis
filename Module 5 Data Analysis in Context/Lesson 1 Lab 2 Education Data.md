@@ -9,7 +9,7 @@
 
 ## Data Set
 
-[Education data set](Module%205%20Lab%20Educatione%20-%20education%20data.xlsx)
+[Education data set](Module%205%20Lab%20Education%20-%20education%20data.xlsx)
 
 You can download this data set and store it so you can use it later on for the exercises.
 
