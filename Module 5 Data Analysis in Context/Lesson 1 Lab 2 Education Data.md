@@ -24,7 +24,7 @@ Imagine that you’re a data analyst at a university, and you’re looking at da
 In this lab, you’ll help the instructor see how the students ranked each course overall, how they ranked
 the teacher, and how each course stacked up against the others.
 
-### Exercise 1: Class and Teacher Rankings
+### Exercise 1: Overall Course and Instructor Rankings
 
 1. Open the data set in Excel, which shows the results of a post-course survey from 270 different students. Here’s a snapshot of the data:
 
@@ -107,3 +107,26 @@ Let's see how it looks like...
 ![Final table](img/2020-08-10-11-04-12.png)
 
 Did you get the same results?
+
+### Exercise 2: Visualizing Those Rankings
+
+Now let’s create a quick graph of all those average rankings we just found.
+
+1. Highlight the entire table of new data that you created in Exercise 1.
+
+![Select data for graph](img/2020-08-10-11-21-50.png)
+
+2. Click on the Insert tab in the ribbon. In the Charts section, click Line > Line with Markers (it’s usually the icon in the lower-left corner).
+
+![Line graph](img/2020-08-10-11-23-29.png)
+
+You should now see a graph that shows both the course and instructor averages for each of the six courses. Like so:
+
+![Final line graph](img/2020-08-10-11-24-27.png)
+
+Notice how one color (blue in our example) represents the course averages, and the other color (orange) represents the instructor averages. Now it’s easier to see how these averages relate to one another.
+
+For example, the students clearly gave the best rankings to the Regression Intermediate class. Now the instructor can use this data analysis to figure out what they did better in that course, and try to replicate it in their other courses.
+
+It could be that the instructor poured more effort into the Intermediate version of the
+Regression course, possibly at the expense of the Intermediate version of the Machine Learning course. Maybe the instructor was teaching both of the  Intermediate courses at the same time and neglected the Machine Learning side a bit.
