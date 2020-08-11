@@ -182,5 +182,5 @@ In this very short lesson, we'll take a look at some of the jobs and career path
 The final exam exists of 20 multiple choice questions and a Challenge Lab.
 
 * Final Exam
-* Challenge Lab Instructions
+* [Final Challenge Lab](Final/Final%20Challenge%20Lab.md)
 * Lab: Quiz
