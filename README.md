@@ -165,7 +165,7 @@ In this lesson, we'll examine the complex real-world ecosystems in which data sh
 In this lesson, we'll examine the ethics and moral concerns of data analytics, this new frontier of the 21st century. How should we govern ourselves responsibly in this growing field?
 
 * Video: Data Ethics
-* Lab: Data Privacy
+* [Lab: Data Privacy](Module%205%20Data%20Analysis%20in%20Context/Lesson%202%20Lab%201%20Data%20Privacy.md)
 * **Lab: Quiz**
 
 * **Lesson 2: Assessment**
