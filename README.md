@@ -14,7 +14,7 @@ Get access to the complete course: Please follow the instructions on [this cours
 
 This course has six modules.
 
-Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please sign up for [this course on DataChangers](https://www.datachangers.com/data-analysis-track/?target=_blank).
+Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please [sign up for this course on DataChangers](https://www.datachangers.com/data-analysis-track/?target=_blank).
 
 Module 1: Our Data-Driven World: Learn to look at the world through the lens of data and to understand things from a fundamental transactional and representational level, all the way through to data fluency and how organizations and governments, not to mention people, from around the world run and organize their life around the flow of data.
 
@@ -26,7 +26,7 @@ Module 4: Our Data Analysis Methods: You'll get into the specifics of how to use
 
 Module 5: Our Data Analysis in Context: Explore how data insights work in the real world and in the context of a couple specific industries. You'll also get a crash course in data ethics and the wide variety of possible careers in the field of data analysis.
 
-Final Exam and Challenge Labs: Take a 20-question, multiple-choice Final Exam and complete one Challenge Lab.
+Final Exam and Challenge Lab: Take a 20-question, multiple-choice Final Exam and complete one Challenge Lab.
 
 ## Course Outline
 
@@ -46,9 +46,8 @@ In this introductory lesson, we'll explore the increasingly important role of da
 * Video: Data Analysis History
 * Video: Dashboard Interaction Lab Introduction
 * [Lab: Dashboard Interaction](/Module%201%20Our%20Data-Driven%20World/Lesson%201%20Lab%20Dashboard%20Interaction.md)
-* **Lab: Quiz**
-
-* **Lesson 1: Assessment**
+* Lab: Quiz
+* Lesson 1: Assessment
 
 #### Lesson 2: Data Literacy
 
@@ -57,9 +56,8 @@ In this lesson, we'll begin building our core data fluency skills: reading and s
 * Video: Data Fluency
 * Video: Data Fluency Lab Introduction
 * [Lab: Data Fluency](/Module%201%20Our%20Data-Driven%20World/Lesson%202%20Lab%20Data%20Fluency.md)
-* **Lab: Quiz**
-
-* **Lesson 2: Assessment**
+* Lab: Quiz
+* Lesson 2: Assessment
 
 ### Module 2: Our First Data Walkthrough
 
@@ -71,16 +69,14 @@ In this lesson, we'll dive into our first hands-on data analytics task. We'll an
 * Video: The Data Analysis Process
 * Video: Data Set Walkthrough
 * [Lab: Real-World Data](/Module%202%20Our%20First%20Data%20Walkthrough/Lesson%201%20Lab%201%20Real%20World%20Data.md)
-* **Lab: Quiz**
-
+* Lab: Quiz
 * Video: Unpacking the Walkthrough 1: Average
 * Video: Unpacking the Walkthrough 2: Breaking Out
 * Video: Unpacking the Walkthrough 3: Scatterplots
 * Video: Unpacking the Walkthrough 4: Correlations
 * [Lab: Data Walkthrough](/Module%202%20Our%20First%20Data%20Walkthrough/Lesson%201%20Lab%202%20Data%20Walkthrough.md)
-* **Lab: Quiz**
-
-* **Lesson 1: Assessment**
+* Lab: Quiz
+* Lesson 1: Assessment
 
 ### Module 3: Our Data Structures
 
@@ -90,8 +86,7 @@ In this short lesson, we'll discuss where data comes from, and where it ends up.
 
 * Video: Where Data Comes From
 * Video: Where Data Goes To
-
-* **Lesson 1: Assessment**
+* Lesson 1: Assessment
 
 #### Lesson 2: Data Structures
 
@@ -100,10 +95,9 @@ In this lesson, we'll familiarize ourselves with the essential structure, anatom
 * Video: Data Anatomy
 * Video: Data Types
 * [Lab: Data Structures](/Module%203%20Our%20Data%20Structures/Lesson%202%20Lab%20Data%20Structures.md)
-* **Lab: Quiz**
+* Lab: Quiz
 * Video: Data Structures
-
-* **Lesson 2: Assessment**
+* Lesson 2: Assessment
 
 #### Lesson 3: Data Joins
 
@@ -112,9 +106,8 @@ In this lesson, we'll learn how to combine multiple related data sets into a sin
 * Video: Data Joins
 * Video: Example of Data Joins
 * [Lab: Data Joins](/Module%203%20Our%20Data%20Structures/Lesson%203%20Lab%20Data%20Joins.md)
-* **Lab: Quiz**
-
-* **Lesson 3: Assessment**
+* Lab: Quiz
+* Lesson 3: Assessment
 
 ### Module 4: Our Data Analysis Methods
 
@@ -126,9 +119,8 @@ In this lesson, we'll gain some basic math and statistical skills that will prov
 * Video: Distribution Statistics
 * Video: Other Statistics
 * [Lab: Data and Math](Module%204%20Our%20Data%20Analysis%20Methods/Lesson%201%20Lab%20Data%20and%20Math.md)
-* **Lab: Quiz**
-
-* **Lesson 1: Assessment**
+* Lab: Quiz
+* Lesson 1: Assessment
 
 #### Lesson 2: Data Visualization 101
 
@@ -139,9 +131,8 @@ In this lesson, we'll explore various ways of visualizing our data via graphs, c
 * Video: Data Visualizations: Types
 * Video: Data Storytelling
 * [Lab: Data Visualization](Module%204%20Our%20Data%20Analysis%20Methods/Lesson%202%20Lab%20Data%20Visualization.md)
-* **Lab: Quiz**
-
-* **Lesson 2: Assessment**
+* Lab: Quiz
+* Lesson 2: Assessment
 
 ### Module 5: Data Analysis in Context
 
@@ -152,13 +143,11 @@ In this lesson, we'll examine the complex real-world ecosystems in which data sh
 * Video: Data in Context
 * Video: Example: Healthcare
 * [Lab: Healthcare Data](Module%205%20Data%20Analysis%20in%20Context/Lesson%201%20Lab%201%20Healthcare%20Data.md)
-* **Lab: Quiz**
-
+* Lab: Quiz
 * Video: Example: Education
 * [Lab: Education Data](Module%205%20Data%20Analysis%20in%20Context/Lesson%201%20Lab%202%20Education%20Data.md)
-* **Lab: Quiz**
-
-* **Lesson 1: Assessment**
+* Lab: Quiz
+* Lesson 1: Assessment
 
 #### Lesson 2: Data Ethics
 
@@ -166,16 +155,15 @@ In this lesson, we'll examine the ethics and moral concerns of data analytics, t
 
 * Video: Data Ethics
 * [Lab: Data Privacy](Module%205%20Data%20Analysis%20in%20Context/Lesson%202%20Lab%201%20Data%20Privacy.md)
-* **Lab: Quiz**
-
-* **Lesson 2: Assessment**
+* Lab: Quiz
+* Lesson 2: Assessment
 
 #### Lesson 3: Data Analysis Career Paths
 
 In this very short lesson, we'll take a look at some of the jobs and career paths available to us as we grow our data analysis skillsets.
 
 * Video: Data Careers
-* **Lesson 3: Assessment**
+* Lesson 3: Assessment
 
 ### Final Exam
 
