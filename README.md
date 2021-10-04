@@ -1,20 +1,20 @@
 # Practical Introduction To Data Analysis
 
+## NOTE: This course has been retired, but please feel free to take the labs as exercises. Instead of taking this retired course, there is another option:
+
+* Become a Microsoft Certified Professional by taking the [DA-100 Analyzing Data with Microsoft Power BI exam](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The online courses to prepare you for this exam can be found on [Microsoft Learn](https://docs.microsoft.com/en-us/users/mariandragt-datachangers/collections/e4mkud3mm4r455)
+
 Welcome to the Github Repo of the "A Practical Introduction to Data Analysis for Absolute Beginners" course!
 
 Digital transformation and advanced technologies like AI and quantum computing are fueled by data. Every industry and profession needs data analysis, from a small business’s survey data to CERN’s hundreds of petabytes per experiment. Analyzing data is one of the most critical skills of the future. This course will bring you from the very beginnings of data concepts and structures in context, all the way through analyzing data, telling data stories effectively, and understanding the environments in which data exists throughout our work and life. It will also start you on the path to becoming a data analyst. Throughout the course, we’ll reference additional courses and learning paths you can take to help you on your data career journey.
 
 Course audience: Aspiring analysts in any industry, as well as managers who need to learn data analytics, data scientists, engineers, software developers, AI engineers, and more.
 
-This course is based on the retired Microsoft Professional Program. As learning partner of Microsoft, we try to continue building these kind of courses to help professionals gain the data skills.
-
-Get access to the complete course: Please follow the instructions on [this course page](https://www.datachangers.com/data-analysis-track/?target=_blank) to get full access to the course content, including exercises, quizzes and a Certificate of Completion.
-
 ## Course Overview
 
 This course has six modules.
 
-Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. If you want to do the exercises to check your knowledge, please [sign up for this course on DataChangers](https://www.datachangers.com/data-analysis-track/?target=_blank).
+Every module has videos, exercises and labs to practice your knowledge. You can find the labs and the data in the module folders. You can't take the knowledge checks anymore.
 
 Module 1: Our Data-Driven World: Learn to look at the world through the lens of data and to understand things from a fundamental transactional and representational level, all the way through to data fluency and how organizations and governments, not to mention people, from around the world run and organize their life around the flow of data.
 
