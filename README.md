@@ -2,7 +2,7 @@
 
 ## NOTE: This course has been retired, but please feel free to take the labs as exercises. Instead of taking this retired course, there is another option:
 
-* Become a Microsoft Certified Professional by taking the [DA-100 Analyzing Data with Microsoft Power BI exam](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The online courses to prepare you for this exam can be found on [Microsoft Learn](https://docs.microsoft.com/en-us/users/mariandragt-datachangers/collections/e4mkud3mm4r455)
+* Become a Microsoft Certified Professional by taking the [DA-100 Analyzing Data with Microsoft Power BI exam](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The online courses to prepare you for this exam can be found on Microsoft Learn. To facilitate you, I created a [Microsoft Learn collection for the DA-100 exam](https://docs.microsoft.com/en-us/users/mariandragt-datachangers/collections/e4mkud3mm4r455). You can also use the corresponding [GitHub DA-100 repo](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI) for this course.
 
 Welcome to the Github Repo of the "A Practical Introduction to Data Analysis for Absolute Beginners" course!
 
